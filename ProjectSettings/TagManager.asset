@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - object
+  - door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Walls
+  - Objects
+  - FirstRoomFog
+  - SecondRoomFog
+  - ThirdRoomFog
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor(3)
+    uniqueID: 1683246709
+    locked: 0
+  - name: ThirdRoom
+    uniqueID: 1156398093
+    locked: 0
+  - name: FogThird
+    uniqueID: 2189529143
+    locked: 0
+  - name: Floor(2)
+    uniqueID: 416051163
+    locked: 0
+  - name: SecondRoom
+    uniqueID: 570511493
+    locked: 0
+  - name: FogSecond
+    uniqueID: 2101270997
+    locked: 0
+  - name: Floor(1)
+    uniqueID: 545669439
+    locked: 0
+  - name: FirstRoom
+    uniqueID: 485201125
+    locked: 0
+  - name: FogFirst
+    uniqueID: 1484328833
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
